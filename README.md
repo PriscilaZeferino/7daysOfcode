@@ -27,6 +27,7 @@ O objetivo do **#7DaysOfCode** é proporcionar uma oportunidade para que desenvo
 - Dia 1 - Operações booleanas
 - Dia 2 - Variáveis
 - Dia 3 - Fluxo de decisão
+- Dia 4 - Loops e randomização
 
 ## Como acessar o resultado dos desafios
 
