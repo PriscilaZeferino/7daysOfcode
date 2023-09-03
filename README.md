@@ -43,6 +43,7 @@ O objetivo do **#7DaysOfCode** é proporcionar uma oportunidade para que desenvo
 O projeto está atualmente em andamento. Todos os desafios diários estão sendo desenvolvidos e testados. Fique à vontade para contribuir, resolver os desafios e propor melhorias.
 
 ## Sobre o desafio
+Você pode saber mais sobre o desafio no site da alura
 https://alura-7dayscode.vercel.app/logica-programacao.html
 
 ## Autora 👧🏻 
