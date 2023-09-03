@@ -28,6 +28,8 @@ O objetivo do **#7DaysOfCode** é proporcionar uma oportunidade para que desenvo
 - Dia 2 - Variáveis
 - Dia 3 - Fluxo de decisão
 - Dia 4 - Loops e randomização
+- Dia 5 - Arrays e coleções
+- Dia 6 - Remoção de Arrays
 
 ## Como acessar o resultado dos desafios
 
