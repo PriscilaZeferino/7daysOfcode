@@ -30,6 +30,7 @@ O objetivo do **#7DaysOfCode** é proporcionar uma oportunidade para que desenvo
 - Dia 4 - Loops e randomização
 - Dia 5 - Arrays e coleções
 - Dia 6 - Remoção de Arrays
+- Dia 7 - Funções em JavaScript
 
 ## Como acessar o resultado dos desafios
 
@@ -40,7 +41,9 @@ O objetivo do **#7DaysOfCode** é proporcionar uma oportunidade para que desenvo
 
 ## Status do Projeto
 
-O projeto está atualmente em andamento. Todos os desafios diários estão sendo desenvolvidos e testados. Fique à vontade para contribuir, resolver os desafios e propor melhorias.
+Todos os desafios diários foram desenvolvidos e testados. Apesar do desafio ter sido concluído, ainda pretendo adicionar uma interface mais amigável para cada um deles utilizando html e css. 
+
+Fique à vontade para contribuir, resolver os desafios e propor melhorias.
 
 ## Sobre o desafio
 Você pode saber mais sobre o desafio no site da alura
