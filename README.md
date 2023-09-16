@@ -1,7 +1,6 @@
 # 7DaysOfCode - Lógica com JavaScript
 
 ## Resumo
-
 O projeto **#7DaysOfCode** consiste em um desafio de programação de 7 dias proposto pela Alura. Durante uma semana, você terá a oportunidade de aprimorar suas habilidades em programação por meio de desafios diários. O foco principal desses desafios é aplicar os seus conhecimentos em lógica de programação utilizando a linguagem JavaScript.
 
 ## Sumário
@@ -15,15 +14,12 @@ O projeto **#7DaysOfCode** consiste em um desafio de programação de 7 dias pro
 
 
 ## Objetivo
-
 O objetivo do **#7DaysOfCode** é proporcionar uma oportunidade para que desenvolvedores possam praticar e aprimorar suas habilidades em programação. Cada dia apresenta um desafio diferente relacionado a um aspecto específico da programação. Ao final dos 7 dias, espera-se que você tenha consolidado seus conhecimentos em lógica de programação e esteja mais confiante em usar a linguagem JavaScript para resolver problemas.
 
 ## Ferramentas/Tecnologias Utilizadas
-
 - JavaScript
 
 ## Desafios Diários
-
 - Dia 1 - Operações booleanas
 - Dia 2 - Variáveis
 - Dia 3 - Fluxo de decisão
@@ -33,14 +29,12 @@ O objetivo do **#7DaysOfCode** é proporcionar uma oportunidade para que desenvo
 - Dia 7 - Funções em JavaScript
 
 ## Como acessar o resultado dos desafios
-
 1. Clone este repositório para o seu computador.
 2. Navegue até a pasta do dia de desafio que você deseja visualizar.
 3. Copie os códigos javascript e os cole no console do navegador, se ele não tiver um html.
 4. Abra os arquivos html no navegador, se ele estiver disponível para o desafio em questão
 
 ## Status do Projeto
-
 Todos os desafios diários foram desenvolvidos e testados. Apesar do desafio ter sido concluído, ainda pretendo adicionar uma interface mais amigável para cada um deles utilizando html e css. 
 
 Fique à vontade para contribuir, resolver os desafios e propor melhorias.
@@ -49,11 +43,9 @@ Fique à vontade para contribuir, resolver os desafios e propor melhorias.
 Você pode saber mais sobre o desafio no site da alura
 https://alura-7dayscode.vercel.app/logica-programacao.html
 
-## Autora 👧🏻 
-
+## Autora
 Feito com 🧡 por Priscila Zeferino.
 
-## Contato ✉
-
-- Linkedin: [Priscila Zeferino](https://www.linkedin.com/in/priscila-zeferino-594b5b175/)
+## Contato
+- Linkedin: [Priscila Zeferino](https://www.linkedin.com/in/priscila-yasmin-da-rocha-zeferino/)
 - E-mail: priscila.zeferino23@gmail.com
